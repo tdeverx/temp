@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/obliquus-dev/script-public/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/USERNAME/REPOSITORY-NAME/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -43,7 +43,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - [ ] Beta
 - [ ] Release
 
-See the [open issues](https://github.com/obliquus-dev/script-public/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/USERNAME/REPOSITORY-NAME/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,25 +61,25 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## // contact
 
-email: hello@obliquus.dev
+email: example@example.com
 
-web: [script.obliquus.dev](https://obliquus.dev)
+web: [example.com](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/obliquus-dev/script-public.svg?style=flat
-[contributors-url]: https://github.com/obliquus-dev/script-public/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/obliquus-dev/script-public.svg?style=flat
-[forks-url]: https://github.com/obliquus-dev/script-public/network/members
-[stars-shield]: https://img.shields.io/github/stars/obliquus-dev/script-public.svg?style=flat
-[stars-url]: https://github.com/obliquus-dev/script-public/stargazers
-[issues-shield]: https://img.shields.io/github/issues/obliquus-dev/script-public.svg?style=flat
-[issues-url]: https://github.com/obliquus-dev/script-public/issues
-[license-shield]: https://img.shields.io/github/license/obliquus-dev/script-public.svg?style=flat
-[license-url]: https://github.com/obliquus-dev/script-public/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/USERNAME/REPOSITORY-NAME.svg?style=flat
+[contributors-url]: https://github.com/USERNAME/REPOSITORY-NAME/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/USERNAME/REPOSITORY-NAME.svg?style=flat
+[forks-url]: https://github.com/USERNAME/REPOSITORY-NAME/network/members
+[stars-shield]: https://img.shields.io/github/stars/USERNAME/REPOSITORY-NAME.svg?style=flat
+[stars-url]: https://github.com/USERNAME/REPOSITORY-NAME/stargazers
+[issues-shield]: https://img.shields.io/github/issues/USERNAME/REPOSITORY-NAME.svg?style=flat
+[issues-url]: https://github.com/USERNAME/REPOSITORY-NAME/issues
+[license-shield]: https://img.shields.io/github/license/USERNAME/REPOSITORY-NAME.svg?style=flat
+[license-url]: https://github.com/USERNAME/REPOSITORY-NAME/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Realm]: https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white
 [Realm-url]: https://realm.io/
