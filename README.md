@@ -1,3 +1,10 @@
+<!-- Step 1:  Find & Replace "USERNAME" with your user (or org) name -->
+<!-- Step 2:  Find & Replace "REPOSITORY-NAME" with your user (or org) name -->
+<!-- Step 3:  Find & Replace "https://example.com" with your domain -->
+<!-- Step 4:  Find & Replace "example@example.com" with your contact email -->
+
+
+
 <!-- Improved compatibility of back to top link: See: https://github.com/USERNAME/REPOSITORY-NAME/pull/73 -->
 <a name="readme-top"></a>
 
