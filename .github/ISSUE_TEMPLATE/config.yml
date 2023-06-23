@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 Feature Request
+    url: https://github.com/orgs/obliquul/discussions/categories/feature-requests
+    about: Suggest an idea for this project..
+  - name: 🎟️ Support Ticket
+    url: https://github.com/orgs/obliquul/discussions/categories/support-tickets
+    about: Talk to us if you need help..
